@@ -1,3 +1,6 @@
 [submodule "nanodet/nanodet"]
 	path = nanodet/nanodet
 	url = https://github.com/RangiLyu/nanodet.git
+[submodule "retinanet/torchvision"]
+	path = retinanet/torchvision
+	url = https://github.com/pytorch/vision.git
