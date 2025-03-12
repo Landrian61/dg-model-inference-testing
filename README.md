@@ -91,7 +91,7 @@ pip install torch torchvision opencv-python pillow psutil
 
 | Model | Input Type | Avg. Latency (ms) | Avg. FPS | CPU Usage (%) | Memory (MB) |
 |-------|------------|-------------------|----------|---------------|-------------|
-| NanoDet | Video | - | [Your FPS] | [CPU %] | [Memory] |
+| NanoDet | Video | - | 4088.56 | 10.69 | 111.60 | 
 | RetinaNet | Images | [Your latency] | - | [CPU %] | [Memory] |
 
 ## Contributing
